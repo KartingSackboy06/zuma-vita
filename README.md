@@ -3,7 +3,7 @@ A PlayStation Vita port of Zuma's Revenge!
 Not affiliated with PopCap, EA or Sony.
 
 This is currently a beta build. (v0.46)
-The full ReadMe will be updated on launch.
+The source code will be updated on launch.
 
 ## Installation Prerequisites
 - A Vita with HENkaku and [kubridge](https://github.com/bythos14/kubridge) installed, and `libshacccg.suprx`
