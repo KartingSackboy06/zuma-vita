@@ -2,6 +2,8 @@
 A PlayStation Vita port of Zuma's Revenge!
 Not affiliated with PopCap, EA or Sony.
 
+<img width="834" height="291" alt="image" src="https://github.com/user-attachments/assets/3466e69e-c25e-4f5c-a318-0d014e7322e0" />
+
 This is currently a beta build. (v0.46)
 The source code will be updated on launch.
 
